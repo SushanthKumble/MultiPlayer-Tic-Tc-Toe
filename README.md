@@ -8,8 +8,6 @@ Welcome to **Tic Tac Toe Online**! This application features a multiplayer Tic T
 - [Tech Stack](#-tech-stack)
 - [Usage](#-usage)
 - [File Structure](#-file-structure)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
