@@ -14,7 +14,6 @@ Welcome to **Tic Tac Toe Online**! This application features a multiplayer Tic T
 ## ✨ Features
 - **Multiplayer Gameplay**: Play Tic Tac Toe with others in real-time.
 - **User Authentication**: Secure login and registration using JSON Web Tokens (JWT).
-- **Responsive UI**: Optimized for both desktop and mobile screens.
 - **Database Storage**: User credentials and game data are stored in a MySQL database.
 - **Real-Time Communication**: Powered by Socket.IO for instant game updates.
 
