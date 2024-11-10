@@ -3,13 +3,13 @@
 Welcome to **Tic Tac Toe Online**! This application features a multiplayer Tic Tac Toe game with user authentication, allowing players to log in, register, and play online with others. The project is built using a modern tech stack, with React for the frontend and Node.js with Express for the backend, and MySQL as the database.
 
 ## 📖 Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Tech Stack](#tech-stack)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Tech Stack](#-tech-stack)
+- [Usage](#-usage)
+- [File Structure](#-file-structure)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
