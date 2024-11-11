@@ -14,7 +14,7 @@ Welcome to **Tic Tac Toe Online**! This application features a multiplayer Tic T
 ## ✨ Features
 - **Multiplayer Gameplay**: Play Tic Tac Toe with others in real-time.
 - **User Authentication**: Secure login and registration using JSON Web Tokens (JWT).
-- **Database Storage**: User credentials and game data are stored in a MySQL database.
+- **Database Storage**: User credentials are stored in a MySQL database.
 - **Real-Time Communication**: Powered by Socket.IO for instant game updates.
 
 ---
@@ -79,22 +79,7 @@ Access the app at `http://localhost:3000` (if using Vite's default port for fron
 
 ---
 
-## 📂 File Structure
-```plaintext
-MultiPlayer-Tic-Tc-Toe/
-├── TicTacToe/                  # Frontend folder
-│   ├── public/                 # Static assets
-│   ├── src/                    # Source code
-│   │   ├── components/         # React components (Login, Register, Game)
-│   │   ├── App.js              # Main App component
-│   │   └── index.js            # Entry point
-│   ├── package.json            # Frontend dependencies
-│   └── vite.config.js          # Vite configuration
-├── TicTacToeSERVER/            # Backend folder     
-│   ├── server.js               # Main backend server file
-│   └── package.json            # Backend dependencies
-└── .gitignore                  # Git ignore file
-```
+
 
 
 Thank you for checking out **Tic Tac Toe Online**! Feel free to reach out with any questions, and happy gaming! 🎉
